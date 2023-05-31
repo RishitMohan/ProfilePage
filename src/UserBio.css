@@ -1,0 +1,60 @@
+/* 
+.userBio{
+
+    color: white;
+    /* display: flex; */
+    /* margin-left: 10%;
+    width: 100%; */
+
+    /* .bio-content{
+/*         
+        margin-right: 400px;
+        padding-left: 0px; */
+/*     
+    }*/
+    .personalInfo>p , .contactInfo>p{
+        font-size: 12px;
+        font-family: Arial, Helvetica, sans-serif;
+        font-weight: 700;
+margin-top: -5px;
+margin-bottom: 5px;
+margin-left: 15px;
+        /* padding: 0px;
+        margin-left: -20px;
+        margin-top: -10px; */
+    }
+    .contactInfo>p{
+        padding-bottom: 10px;
+    }
+    
+    
+    hr{ width:60%;
+        margin-left: 2%;
+    }     
+
+    .userBio{
+        flex: 60%;
+        color: white;
+       
+        margin-top: 0px;
+    }
+    .bio-content{
+        padding-top: 0rem;
+        padding-left: 2rem;
+        color: white;
+    }
+    .bio-content>h4{
+        font-size: x-small;
+        font-weight: 650;
+padding-top: 0px;
+margin-top: -20px;
+    
+        padding-left: 20px;
+        padding-bottom: 25px;
+    }
+    .profIcon{
+        width: fit-content;
+        height: fit-content;
+        margin-top: 10px;
+        margin-left: 700px;
+    }

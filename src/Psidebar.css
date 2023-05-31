@@ -1,0 +1,70 @@
+.profileSidebar{
+margin-top: 0px;
+min-width: 25%;
+min-height: 100vh;
+background: linear-gradient(180deg, rgba(4,46,125,1) 5%, rgba(30,66,133,1) 57%);
+}
+.logo>img{
+    width: 50px;
+    height: 50px;
+   
+}
+.logo{
+   padding-top: 20px;
+   padding-left: 10px;
+    display: flex;
+    align-items: center;
+}
+.logo>b{
+    color: white;
+    padding-left: 10px;
+}
+.user{
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    margin-left: 50px;
+
+    color: azure;
+}
+p{
+margin: -2px;
+margin-left: 32px;
+font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+font-size: xx-small;
+
+}
+button{margin-top: 15px;
+    background-image:   linear-gradient(to right, #33ccff -10%, #000066 200%);
+    border-radius: 50px;
+    width:170px ;
+    font-size: xx-small;
+    color: antiquewhite;
+    height: 50px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+}
+h4{
+    margin: -4px;
+    font-weight: 400;
+    font-size: x-large;
+    margin-left: 15px;
+    margin-bottom: 2px;
+}
+.userphoto{
+background-color: lightgray;
+margin-top: 40px;
+margin-bottom: 30px;
+margin-left: 30px;
+width: 100px;
+height: 100px;
+border-radius: 50%;
+box-shadow: 1px 1px 0px 20px rgba(249, 249, 249, 0.45)
+
+
+}
+.logout{
+    color: white;
+    margin-top: 70px;
+    margin-left: -10%;
+}

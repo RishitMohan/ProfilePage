@@ -1,0 +1,21 @@
+.profiledetails{
+    padding: 2px;
+    margin: 2px;
+
+    display: flex;
+    margin-left: 15px;
+  
+    font-size: xx-small;
+
+}
+.symbol{
+  font-weight: 600;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 10px;
+}
+.details{
+
+  padding-left: 200px;
+  /* font-family: 'Times New Roman', Times, serif; */
+  font-weight: lighter;
+}
